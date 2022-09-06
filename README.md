@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Ramos.
 - 👀 I’m interested in jobs for helping people with my knowledge.
-- 🌱 I’m currently learning React, Flutter, C#, PHP, MySQL and MongoDB.
+- 🌱 I’m currently learning React, Node, Flutter, MySQL and MongoDB.
 - 📫 Contact: kevinramos346@gmail.com / +55 (21) 96698-6843
 
 <!---
